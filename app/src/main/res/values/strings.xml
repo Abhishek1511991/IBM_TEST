@@ -3,4 +3,13 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="enter_notification_message">Notification Message</string>
+    <string name="enter_re_direction_tab_no">Tab to navigate</string>
+    <string name="tab_1">Tab 1</string>
+    <string name="create_notification">Create Notification</string>
+    <string name="display_notofication_tab_2">Display Tab 2</string>
+    <string name="display_notofication_tab_3">Display Tab 3</string>
+    <string name="both_blank">Both notification msg and Navigate input should not be blank</string>
+    <string name="one_of_the_blank">Either notification msg or Navigate input is blank</string>
+    <string name="no_2_or_3">Entered number either 2 or 3</string>
 </resources>
